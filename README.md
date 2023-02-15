@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shibin-shahid-k-v
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning the fundamentals required for Data Analysts
+- 🌱 I’m currently doing M.Tech in IIT Kharagpur and self learning the fundamentals required for Data Analysts
 - 📫 How to reach me - shibinshahidkv12@gmail.com
 
 <!---
